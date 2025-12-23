@@ -62,8 +62,8 @@ const Work = () => {
                         {/* <!-- // use this for the back and loop this div  --> */}
 
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
-                          <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={madhu} alt="" className="rounded-4" />
+                          <Link href="/case-studies" className="bs-img-div">
+                            <Image width={400} height={400} src={madhu} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -77,7 +77,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={dhirsons} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={dhirsons} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -91,7 +91,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={petcenter} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={petcenter} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -106,7 +106,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={ohmypet} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={ohmypet} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -120,7 +120,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={executive} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={executive} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -135,7 +135,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={geetika} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={geetika} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">website</button>
@@ -179,7 +179,7 @@ const Work = () => {
 
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={petcenter} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={petcenter} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -194,7 +194,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={ohmypet} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={ohmypet} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -208,7 +208,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={executive} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={executive} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -223,7 +223,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={yellowcab} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={yellowcab} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -237,7 +237,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={geetika} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={geetika} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">website</button>
@@ -252,7 +252,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={vardhaman} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={vardhaman} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -299,7 +299,7 @@ const Work = () => {
 
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={madhu} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={madhu} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -313,7 +313,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={dhirsons} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={dhirsons} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -327,7 +327,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={petcenter} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={petcenter} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -342,7 +342,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={ohmypet} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={ohmypet} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -356,7 +356,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={executive} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={executive} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
@@ -371,7 +371,7 @@ const Work = () => {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-12 my-3">
                           <Link href="/" className="bs-img-div">
-                             <Image width={400} height={400} src={yellowcab} alt="" className="rounded-4" />
+                            <Image width={400} height={400} src={yellowcab} alt="" className="rounded-4" />
                           </Link>
                           <div className="buttonBox mt-2">
                             <button className="first">Website</button>
